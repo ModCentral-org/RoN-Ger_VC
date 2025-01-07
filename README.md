@@ -1,2 +1,2 @@
-# RoN-Ger_VC
-A German Voice Mod for Ready or Not
+# Ready or Not German Voice Mod
+
